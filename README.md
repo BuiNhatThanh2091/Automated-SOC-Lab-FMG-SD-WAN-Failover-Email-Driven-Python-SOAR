@@ -138,7 +138,7 @@ Python Bot (Laptop)
  │                   JSON: conn_status, config_status
  │
  ├─[if anomaly detected]
- │ └─[smtplib SMTP]──► FortiMail (mail.hcmute.com) ──► IT Admin
+ │ └─[smtplib SMTP]──► FortiMail (mail_server) ──► IT Admin
  │
  └─[pandas + openpyxl]──► Audit_Report.xlsx
                           RED = CRITICAL (conn: down)
@@ -164,9 +164,9 @@ from openpyxl import load_workbook
 from openpyxl.styles import PatternFill
 
 FMG_IP = "IP_FortiManager"
-MAIL_SERVER = "mail.hcmute.com"   # FortiMail server
-MAIL_USER = "bot_soar@mail.hcmute.com"
-IT_EMAIL   = "fmg@mail.hcmute.com"
+MAIL_SERVER = "mail_server"   # FortiMail server
+MAIL_USER = "mail_user"
+IT_EMAIL   = "mail_vanhanh_IT"
 
 def send_alert(device, ip, error):
     msg = MIMEText(f"[ALERT] Device: {device} ({ip})\nError: {error}")
@@ -219,14 +219,3 @@ run_audit()
 - ✅ **Centralized Management:** Handled Policy Packages, ADOMs, and Install Wizards on FortiManager 200F.
 
 ## 📁 Repository Structure
-
-```text
-Fortinet-SecOps-Hardware-Lab/
-├── README.md
-├── scripts/
-│   ├── fortinet_audit_bot.py      # Python 4-phase polling engine
-├── reports/
-│   └── BaoCaoCuoiKy_Final.pdf
-└── diagrams/
-    └── topology_DC_DR.png
-```
