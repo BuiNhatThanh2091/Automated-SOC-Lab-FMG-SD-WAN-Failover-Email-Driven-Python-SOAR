@@ -1,0 +1,80 @@
+{"ts": "2026-04-09T16:16:18", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "DETECTED", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:16:18", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_SENT_LV1", "detail": "initial alert sent"}
+{"ts": "2026-04-09T16:28:52", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:28:52", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_SENT_LV2", "detail": "approval request sent"}
+{"ts": "2026-04-09T16:28:52", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_REPLY_YES", "detail": "manual remediation guide sent"}
+{"ts": "2026-04-09T16:28:52", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MANUAL_ROLLBACK_GUIDE_SENT", "detail": "guidance sent after YES"}
+{"ts": "2026-04-09T16:29:02", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:29:11", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:29:21", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:29:31", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:29:41", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:29:50", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:30:00", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:30:10", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:30:20", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:30:29", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:30:39", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:30:54", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:31:04", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:33:47", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:33:57", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:34:07", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:34:17", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:34:27", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:34:37", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:34:46", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:34:47", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_REPLY_YES", "detail": "manual guide reminder sent"}
+{"ts": "2026-04-09T16:34:47", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MANUAL_ROLLBACK_GUIDE_SENT", "detail": "manual guide reminder re-sent"}
+{"ts": "2026-04-09T16:34:57", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:35:06", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:35:16", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:35:26", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:35:26", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_REPLY_YES", "detail": "manual guide reminder sent"}
+{"ts": "2026-04-09T16:35:26", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MANUAL_ROLLBACK_GUIDE_SENT", "detail": "manual guide reminder re-sent"}
+{"ts": "2026-04-09T16:35:35", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:35:45", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:35:55", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:36:05", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:36:15", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:36:25", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:36:34", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:36:35", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_REPLY_YES", "detail": "manual guide reminder sent"}
+{"ts": "2026-04-09T16:36:35", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MANUAL_ROLLBACK_GUIDE_SENT", "detail": "manual guide reminder re-sent"}
+{"ts": "2026-04-09T16:36:44", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:36:54", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:37:04", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:42:49", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:43:02", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:43:18", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:43:29", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:43:40", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:43:50", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:44:01", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:44:11", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:44:29", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:46:16", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:46:17", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "WAITING_IT_EXECUTION", "detail": "follow-up reminder sent"}
+{"ts": "2026-04-09T16:46:27", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:46:37", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:46:48", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:46:48", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "MAIL_REPLY_NO", "detail": "NO received after manual guide"}
+{"ts": "2026-04-09T16:46:48", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "NO_ROLLBACK_APPROVED", "detail": "IT approved no rollback"}
+{"ts": "2026-04-09T16:46:58", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:47:09", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:47:19", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:47:19", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "BASELINE_ACCEPTED", "detail": "follow-up no-rollback monitoring mail sent"}
+{"ts": "2026-04-09T16:47:29", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:47:40", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:47:50", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:47:50", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "BASELINE_ACCEPTED", "detail": "follow-up no-rollback monitoring mail sent"}
+{"ts": "2026-04-09T16:48:01", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:48:11", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:48:21", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RECHECK", "detail": "conf=in-sync, conn=up, pkg=out-of-sync"}
+{"ts": "2026-04-09T16:48:22", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "BASELINE_ACCEPTED", "detail": "follow-up no-rollback monitoring mail sent"}
+{"ts": "2026-04-09T16:48:25", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "RESOLVED", "detail": "device returned to normal state"}
+{"ts": "2026-04-09T16:48:25", "ticket": "TICKET-20260409-161618", "device": "FortiGate-80E-DR", "event": "CLOSED", "detail": "incident closed"}
+{"ts": "2026-04-09T16:48:55", "ticket": "TICKET-20260409-164855", "device": "FortiGate-80E-DR", "event": "DETECTED", "detail": "conf=outofsync, conn=up, pkg=in-sync"}
+{"ts": "2026-04-09T16:48:55", "ticket": "TICKET-20260409-164855", "device": "FortiGate-80E-DR", "event": "MAIL_SENT_LV1", "detail": "initial alert sent"}
+{"ts": "2026-04-09T16:48:59", "ticket": "TICKET-20260409-164855", "device": "FortiGate-80E-DR", "event": "RESOLVED", "detail": "device returned to normal state"}
+{"ts": "2026-04-09T16:48:59", "ticket": "TICKET-20260409-164855", "device": "FortiGate-80E-DR", "event": "CLOSED", "detail": "incident closed"}

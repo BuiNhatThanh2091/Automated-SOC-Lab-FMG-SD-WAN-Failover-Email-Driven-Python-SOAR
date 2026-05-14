@@ -1,0 +1,107 @@
+[2026-04-09T16:16:18]\nSUBJECT: [ALERT] FortiGate-80E-DR - out of sync detected\nTicket ID: TICKET-20260409-161618\nDevice: FortiGate-80E-DR\nConnection Status: up\nConfig Status: in-sync\nPolicy Package: FortiGate-80E-DR\nPolicy Package Status: out-of-sync\nAdmin User: None\nSource IP: None\nPolicy ID: None\nAction Type: unknown\n\nBot sẽ tiếp tục polling. Nếu sự cố kéo dài, bot sẽ gửi mail yêu cầu phản hồi YES/NO.\n--------------------------------------------------------------------------------\n[2026-04-09T16:28:52]
+SUBJECT: [APPROVAL REQUIRED] FortiGate-80E-DR - reply YES or NO
+Ticket ID: TICKET-20260409-161618
+Sự cố vẫn còn tồn tại sau 3 giây.
+Device: FortiGate-80E-DR
+Connection Status: up
+Config Status: in-sync
+Policy Package: FortiGate-80E-DR
+Policy Package Status: out-of-sync
+
+Hãy reply mail này bằng YES hoặc NO.
+YES = Bot sẽ gửi hướng dẫn xử lý thủ công.
+NO  = Bot sẽ yêu cầu đồng bộ lại với FortiManager và tiếp tục polling.
+--------------------------------------------------------------------------------
+[2026-04-09T16:28:52]
+SUBJECT: [MANUAL REMEDIATION GUIDE] FortiGate-80E-DR
+Ticket ID: TICKET-20260409-161618
+IT đã phản hồi YES.
+Bot không tự rollback.
+Đề nghị IT thực hiện xử lý thủ công như sau:
+
+Không bóc được policy ID từ log. IT cần kiểm tra và xử lý thủ công trên FMG/FGT.
+
+Sau khi làm xong, bot sẽ tiếp tục polling để xác minh trạng thái.
+--------------------------------------------------------------------------------
+[2026-04-09T16:34:47]
+SUBJECT: [MANUAL REMEDIATION REMINDER] FortiGate-80E-DR
+Ticket ID: TICKET-20260409-161618
+Bot đã nhận thêm phản hồi YES.
+Gửi lại hướng dẫn xử lý thủ công để IT tiện thao tác:
+
+Không bóc được policy ID từ log. IT cần kiểm tra và xử lý thủ công trên FMG/FGT.
+
+Sau khi xử lý xong, bot sẽ tiếp tục polling để xác minh trạng thái.
+--------------------------------------------------------------------------------
+[2026-04-09T16:35:26]
+SUBJECT: [MANUAL REMEDIATION REMINDER] FortiGate-80E-DR
+Ticket ID: TICKET-20260409-161618
+Bot đã nhận thêm phản hồi YES.
+Gửi lại hướng dẫn xử lý thủ công để IT tiện thao tác:
+
+Không bóc được policy ID từ log. IT cần kiểm tra và xử lý thủ công trên FMG/FGT.
+
+Sau khi xử lý xong, bot sẽ tiếp tục polling để xác minh trạng thái.
+--------------------------------------------------------------------------------
+[2026-04-09T16:36:34]
+SUBJECT: [MANUAL REMEDIATION REMINDER] FortiGate-80E-DR
+Ticket ID: TICKET-20260409-161618
+Bot đã nhận thêm phản hồi YES.
+Gửi lại hướng dẫn xử lý thủ công để IT tiện thao tác:
+
+Không bóc được policy ID từ log. IT cần kiểm tra và xử lý thủ công trên FMG/FGT.
+
+Sau khi xử lý xong, bot sẽ tiếp tục polling để xác minh trạng thái.
+--------------------------------------------------------------------------------
+[2026-04-09T16:46:16]
+SUBJECT: [FOLLOW-UP] FortiGate-80E-DR - waiting IT manual action
+Ticket ID: TICKET-20260409-161618
+Thiết bị vẫn chưa đồng bộ lại.
+Current Status: conn=up conf=in-sync pkg=out-of-sync
+Bot đang chờ IT thực hiện xử lý thủ công theo hướng dẫn đã gửi.
+Sau khi xử lý xong, bot sẽ tự kiểm tra lại trạng thái.
+--------------------------------------------------------------------------------
+[2026-04-09T16:46:48]
+SUBJECT: [NO ROLLBACK APPROVED] FortiGate-80E-DR
+Ticket ID: TICKET-20260409-161618
+IT đã phản hồi NO sau khi nhận hướng dẫn rollback.
+Bot ghi nhận quyết định không rollback tại thời điểm này.
+Trạng thái sẽ được theo dõi tiếp qua polling liên tục.
+Nếu đồng bộ trở lại, bot sẽ tự động ghi RESOLVED/CLOSED.
+--------------------------------------------------------------------------------
+[2026-04-09T16:47:19]
+SUBJECT: [FOLLOW-UP] FortiGate-80E-DR - no rollback approved
+Ticket ID: TICKET-20260409-161618
+Bot đã ghi nhận quyết định NO ROLLBACK.
+Trạng thái hiện tại vẫn chưa về normal: conn=up conf=in-sync pkg=out-of-sync
+Bot tiếp tục monitor và sẽ tự đóng incident khi trạng thái bình thường trở lại.
+--------------------------------------------------------------------------------
+[2026-04-09T16:47:50]
+SUBJECT: [FOLLOW-UP] FortiGate-80E-DR - no rollback approved
+Ticket ID: TICKET-20260409-161618
+Bot đã ghi nhận quyết định NO ROLLBACK.
+Trạng thái hiện tại vẫn chưa về normal: conn=up conf=in-sync pkg=out-of-sync
+Bot tiếp tục monitor và sẽ tự đóng incident khi trạng thái bình thường trở lại.
+--------------------------------------------------------------------------------
+[2026-04-09T16:48:21]
+SUBJECT: [FOLLOW-UP] FortiGate-80E-DR - no rollback approved
+Ticket ID: TICKET-20260409-161618
+Bot đã ghi nhận quyết định NO ROLLBACK.
+Trạng thái hiện tại vẫn chưa về normal: conn=up conf=in-sync pkg=out-of-sync
+Bot tiếp tục monitor và sẽ tự đóng incident khi trạng thái bình thường trở lại.
+--------------------------------------------------------------------------------
+[2026-04-09T16:48:55]
+SUBJECT: [ALERT] FortiGate-80E-DR - out of sync detected
+Ticket ID: TICKET-20260409-164855
+Device: FortiGate-80E-DR
+Connection Status: up
+Config Status: outofsync
+Policy Package: FortiGate-80E-DR
+Policy Package Status: in-sync
+Admin User: student@FortiManager
+Source IP: None
+Policy ID: None
+Action Type: delete
+
+Bot sẽ tiếp tục polling. Nếu sự cố kéo dài, bot sẽ gửi mail yêu cầu phản hồi YES/NO.
+--------------------------------------------------------------------------------
